@@ -185,3 +185,13 @@
 [23:57:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2901ms or 58 ticks behind
 [23:57:38] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [23:57:38] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[23:57:47] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[23:58:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 21107 chunks (33.50%), ETA: 0:27:13, Rate: 25.6 cps, Current: -43, 90
+[23:58:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 21115 chunks (33.52%), ETA: 0:37:42, Rate: 18.5 cps, Current: -39, 90
+[23:58:10] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 21157 chunks (33.58%), ETA: 0:31:45, Rate: 22.0 cps, Current: -36, 94
+[23:58:11] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 21174 chunks (33.61%), ETA: 0:33:06, Rate: 21.1 cps, Current: -34, 90
+[23:58:12] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 21190 chunks (33.63%), ETA: 0:34:33, Rate: 20.2 cps, Current: -37, 87
+[23:58:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 21217 chunks (33.68%), ETA: 0:33:29, Rate: 20.8 cps, Current: -40, 84
+[23:58:15] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 21238 chunks (33.71%), ETA: 0:34:54, Rate: 19.9 cps, Current: -35, 82
+[23:58:15] [Chunky-minecraft:overworld Thread/INFO]: [Chunky] Task stopped for minecraft:overworld.
+[23:58:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
