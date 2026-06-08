@@ -1,0 +1,16 @@
+{
+  "chat": {
+    "translation_key": "\u00A76\u00A7l[The World] \u00A7r%2$s",
+    "parameters": [
+      "sender",
+      "content"
+    ]
+  },
+  "narration": {
+    "translation_key": "chat.type.text.narrate",
+    "parameters": [
+      "sender",
+      "content"
+    ]
+  }
+}
