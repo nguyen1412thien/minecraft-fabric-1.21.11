@@ -1,156 +1,180 @@
-[03:20:54] [WebSocketConnectReadThread-208/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[03:21:08] [WebSocketConnectReadThread-210/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[03:21:18] [WebSocketConnectReadThread-211/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[03:21:35] [WebSocketConnectReadThread-212/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[03:21:48] [WebSocketConnectReadThread-213/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[03:21:57] [WebSocketConnectReadThread-214/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org
-[03:21:57] [WebSocketConnectReadThread-214/ERROR]: Error while handling onClose
-java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
-	at knot//org.geysermc.geyser.util.JsonUtils.parseJson(JsonUtils.java:56)
-	at knot//org.geysermc.geyser.skin.FloodgateSkinUploader$1.onClose(FloodgateSkinUploader.java:171)
-	at knot//org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:663)
-	at knot//org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:552)
-	at knot//org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:576)
-	at knot//org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:494)
-	at java.base/java.lang.Thread.run(Unknown Source)
-[08:54:43] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[08:54:43] [RCON Client /0:0:0:0:0:0:0:1 #4/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
-[08:54:52] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[08:57:23] [Server thread/INFO]: _14dec (af246af2-3b79-3786-93ed-98a94f999c18) lost connection: Disconnected
-[08:59:13] [Server thread/INFO]: _14dec[/192.168.65.1:32894] logged in with entity id 218 at (-264.92210472504485, 93.44885505858927, 812.9353379001444)
-[08:59:13] [Server thread/INFO]: _14dec joined the game
-[09:00:18] [Server thread/INFO]: _14dec lost connection: Disconnected
-[09:00:18] [Server thread/INFO]: _14dec left the game
-[09:01:11] [Server thread/INFO]: _14dec[/192.168.65.1:55489] logged in with entity id 521 at (-321.78918355334343, 93.44885505858927, 800.7063425272082)
-[09:01:11] [Server thread/INFO]: _14dec joined the game
-[09:13:55] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[09:24:45] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[09:39:08] [Server thread/INFO]: Villager class_1646['Villager'/4928, l='ServerLevel[world]', x=-266.08, y=69.00, z=778.27] died, message: 'Villager was slain by Zombie'
-[09:43:28] [Server thread/INFO]: [_14dec: Set the weather to rain & thunder]
-[10:01:55] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[10:12:04] [Server thread/INFO]: phanhbocutes1tg[/192.168.65.1:31893] logged in with entity id 13820 at (-64.5, 63.0, 802.5)
-[10:12:04] [Server thread/INFO]: phanhbocutes1tg joined the game
-[10:12:37] [Server thread/INFO]: [_14dec: Teleported _14dec to phanhbocutes1tg]
-[10:13:49] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[10:15:20] [Server thread/INFO]: [Not Secure] <_14dec> hetllo
-[10:15:30] [Server thread/INFO]: [Not Secure] <_14dec> an T de chat
-[10:15:45] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> y la
-[10:15:47] [Server thread/INFO]: [Not Secure] <_14dec> di dau day
-[10:15:53] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> no van lag i
-[10:15:55] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> huhuuuh
-[10:15:57] [Server thread/INFO]: [Not Secure] <_14dec> :)))
-[10:16:02] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> giật banh nồn
-[10:16:06] [Server thread/INFO]: [Not Secure] <_14dec> doi nao mang may di
-[10:16:13] [Server thread/INFO]: [Not Secure] <_14dec> a chi cach cho no do lag
-[10:16:18] [Server thread/INFO]: [Not Secure] <_14dec> nhma se rat xau
-[10:16:20] [Server thread/INFO]: [Not Secure] <_14dec> :)
-[10:16:37] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> đéo chịuuuuu
-[10:16:41] [Server thread/INFO]: [Not Secure] <_14dec> :))
-[10:16:46] [Server thread/INFO]: [Not Secure] <_14dec> chu nhat duoc choi r
-[10:16:49] [Server thread/INFO]: [Not Secure] <_14dec> co len
-[10:16:51] [Server thread/INFO]: [Not Secure] <_14dec> :)))
-[10:18:39] [Server thread/INFO]: [_14dec: Teleported _14dec to phanhbocutes1tg]
-[10:18:44] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> e đi khò típ
-[10:18:53] [Server thread/INFO]: [Not Secure] <_14dec> dao
-[10:18:55] [Server thread/INFO]: [Not Secure] <_14dec> daaaa
-[10:18:59] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> bat đầu mát mát bngu r
-[10:19:08] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> hì hì baoh a chán a gọi e nhíe
-[10:19:10] [Server thread/INFO]: [Not Secure] <_14dec> :)))))))
-[10:19:12] [Server thread/INFO]: [Not Secure] <_14dec> daaaaaa
-[10:19:18] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> e đi khòoo
-[10:19:19] [Server thread/INFO]: [Not Secure] <_14dec> vo yeu cua a ngu ngoannnnnnnnnn
-[10:19:22] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> mai ttrinh r
-[10:19:28] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> nma ch làm gì cạ
-[10:19:31] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> hìii
-[10:19:45] [Server thread/INFO]: [Not Secure] <_14dec> hihihihihi
-[10:19:47] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> m đánh taooooo
-[10:19:51] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> oeoeoeoeooe
-[10:19:54] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> oeoeoeoeooeoe
-[10:19:56] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> oeoeoeoeoeoeeo
-[10:19:58] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> oeoeoeoeooee
-[10:19:59] [Server thread/INFO]: [Not Secure] <_14dec> oeoeoeoeoeoe
-[10:20:00] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> oeoeooeoeoe
-[10:20:06] [Server thread/INFO]: [Not Secure] <phanhbocutes1tg> thoi bai bai nhíe
-[10:20:12] [Server thread/INFO]: phanhbocutes1tg lost connection: Disconnected
-[10:20:12] [Server thread/INFO]: phanhbocutes1tg left the game
-[10:23:11] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[10:34:47] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[10:44:01] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[10:44:09] [Server thread/INFO]: [_14dec: Set the weather to rain]
-[10:44:24] [Server thread/INFO]: [_14dec: Set the weather to rain & thunder]
-[10:47:39] [Server thread/INFO]: Villager class_1646['Villager'/19128, l='ServerLevel[world]', x=-218.57, y=72.18, z=774.20] died, message: 'Villager was slain by Zombie'
-[10:48:48] [Server thread/INFO]: Villager class_1646['Farmer'/19119, l='ServerLevel[world]', x=-268.22, y=68.94, z=777.43] died, message: 'Farmer was shot by Skeleton'
-[10:50:22] [Server thread/INFO]: [_14dec: Set the weather to rain & thunder]
-[10:53:38] [Server thread/INFO]: Villager class_1646['Toolsmith'/19127, l='ServerLevel[world]', x=-286.48, y=74.00, z=731.95] died, message: 'Toolsmith was slain by Zombie'
-[10:54:03] [Server thread/INFO]: Villager class_1646['Mason'/19115, l='ServerLevel[world]', x=-319.04, y=70.00, z=709.03] died, message: 'Mason was slain by Zombie'
-[10:54:24] [Server thread/INFO]: Villager class_1646['Cartographer'/19126, l='ServerLevel[world]', x=-159.27, y=73.04, z=723.32] died, message: 'Cartographer was slain by Zombie'
-[10:55:06] [Server thread/INFO]: Villager class_1646['Cartographer'/26084, l='ServerLevel[world]', x=-277.50, y=73.00, z=773.72] died, message: 'Cartographer was slain by Zombie'
-[10:55:30] [Server thread/INFO]: Villager class_1646['Villager'/26145, l='ServerLevel[world]', x=-278.90, y=73.00, z=776.18] died, message: 'Villager was slain by Zombie'
-[10:57:23] [Server thread/INFO]: Villager class_1646['Villager'/26042, l='ServerLevel[world]', x=-240.39, y=72.00, z=771.12] died, message: 'Villager was slain by Zombie'
-[10:57:29] [Server thread/INFO]: Villager class_1646['Villager'/26111, l='ServerLevel[world]', x=-241.30, y=69.00, z=772.30] died, message: 'Villager was slain by Zombie'
-[10:57:36] [Server thread/INFO]: Villager class_1646['Villager'/26121, l='ServerLevel[world]', x=-243.30, y=77.25, z=760.82] died, message: 'Villager was slain by Zombie'
-[10:58:20] [Server thread/INFO]: Villager class_1646['Villager'/26038, l='ServerLevel[world]', x=-298.64, y=70.00, z=736.61] died, message: 'Villager was slain by Zombie'
-[10:58:27] [Server thread/INFO]: Villager class_1646['Villager'/26097, l='ServerLevel[world]', x=-170.56, y=85.00, z=738.45] died, message: 'Villager was slain by Zombie'
-[10:58:31] [Server thread/INFO]: Villager class_1646['Villager'/26176, l='ServerLevel[world]', x=-249.96, y=69.00, z=684.60] died, message: 'Villager was slain by Zombie'
-[11:00:04] [Server thread/INFO]: Locating element terralith:fortified_village took 111 ms
-[11:00:08] [Server thread/INFO]: [_14dec: Teleported _14dec to 16.500000, 91.809365, 1616.500000]
-[11:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
-[11:00:14] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[11:00:43] [Server thread/INFO]: Villager class_1646['Armorer'/29613, l='ServerLevel[world]', x=2.63, y=73.00, z=1650.39] died, message: 'Armorer was slain by Zombie'
-[11:01:28] [Server thread/INFO]: Villager class_1646['Toolsmith'/29593, l='ServerLevel[world]', x=-52.86, y=85.00, z=1633.44] died, message: 'Toolsmith was slain by Zombie'
-[11:01:41] [Server thread/INFO]: Villager class_1646['Armorer'/29592, l='ServerLevel[world]', x=-21.91, y=74.00, z=1640.41] died, message: 'Armorer was slain by Zombie'
-[11:01:53] [Server thread/INFO]: Locating element terralith:fortified_desert_village took 9659 ms
-[11:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9666ms or 193 ticks behind
-[11:02:04] [Server thread/INFO]: Locating element terralith:fortified_desert_village took 113 ms
-[11:02:09] [Server thread/INFO]: [_14dec: Teleported _14dec to 8496.500000, 104.195316, 4672.500000]
-[11:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3247ms or 64 ticks behind
-[11:02:48] [Server thread/INFO]: Villager class_1646['Fisherman'/30309, l='ServerLevel[world]', x=8508.84, y=98.00, z=4645.78] died, message: 'Fisherman was shot by Pillager'
-[11:02:58] [Server thread/INFO]: Villager class_1646['Fisherman'/30310, l='ServerLevel[world]', x=8484.34, y=92.00, z=4705.29] died, message: 'Fisherman was shot by Pillager'
-[11:03:43] [Server thread/INFO]: Locating element terralith:fortified_village took 1694 ms
-[11:03:47] [Server thread/INFO]: [_14dec: Teleported _14dec to 9152.500000, 149.868137, 3360.500000]
-[11:06:59] [Server thread/WARN]: _14dec moved too quickly! -1.3813688404643472,0.0,10.795286851492165
-[11:10:30] [Server thread/WARN]: _14dec moved too quickly! 5.261322251320053,0.0,-9.759237088879672
-[11:11:28] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[11:13:35] [Server thread/WARN]: _14dec moved too quickly! -0.38302594699871406,0.0,10.769544559219867
-[11:13:38] [Server thread/WARN]: _14dec moved too quickly! 5.994207462976192,0.0,8.94734662772862
-[11:14:42] [Server thread/WARN]: _14dec moved too quickly! 3.372033962217756,0.0,-10.353562482765483
-[11:14:44] [Server thread/WARN]: _14dec moved too quickly! 3.208864635203099,0.0,-9.852722642618573
-[11:15:28] [Server thread/WARN]: _14dec moved too quickly! -10.597788465709527,0.0,2.2606632886790976
-[11:16:55] [Server thread/WARN]: _14dec moved too quickly! -10.756482333465101,0.0,-1.6897651590161331
-[11:17:40] [Server thread/WARN]: _14dec moved too quickly! -2.429080492128378,0.0,-10.576033399367589
-[11:22:43] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[11:32:36] [Server thread/INFO]: [_14dec: Successfully filled 3596 block(s)]
-[11:33:02] [Server thread/INFO]: [_14dec: Successfully filled 1 block(s)]
-[11:34:08] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[11:40:07] [Server thread/WARN]: _14dec moved too quickly! -7.131557671834571,0.0,7.493528351427358
-[11:45:05] [Server thread/INFO]: [_14dec: Set the time to 1000]
-[11:51:35] [Server thread/INFO]: _14dec lost connection: Disconnected
-[11:51:35] [Server thread/INFO]: _14dec left the game
-[11:52:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:36:13] [Server thread/WARN]: handleDisconnection() called twice
-[14:51:49] [WebSocketConnectReadThread-600/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[14:52:00] [WebSocketConnectReadThread-601/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[14:52:10] [WebSocketConnectReadThread-602/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[15:18:10] [WebSocketConnectReadThread-603/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[15:18:21] [WebSocketConnectReadThread-604/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[15:18:35] [WebSocketConnectReadThread-605/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[15:18:47] [WebSocketConnectReadThread-606/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[15:19:01] [WebSocketConnectReadThread-607/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[16:00:14] [WebSocketConnectReadThread-608/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[16:00:27] [WebSocketConnectReadThread-609/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[16:00:40] [WebSocketConnectReadThread-610/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[16:32:41] [WebSocketConnectReadThread-611/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[16:32:51] [WebSocketConnectReadThread-612/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[16:44:09] [WebSocketConnectReadThread-613/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[16:44:18] [WebSocketConnectReadThread-614/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org
-[16:44:18] [WebSocketConnectReadThread-614/ERROR]: Error while handling onClose
-java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
-	at knot//org.geysermc.geyser.util.JsonUtils.parseJson(JsonUtils.java:56)
-	at knot//org.geysermc.geyser.skin.FloodgateSkinUploader$1.onClose(FloodgateSkinUploader.java:171)
-	at knot//org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:663)
-	at knot//org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:552)
-	at knot//org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:576)
-	at knot//org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:494)
-	at java.base/java.lang.Thread.run(Unknown Source)
-[16:44:31] [WebSocketConnectReadThread-615/ERROR]: Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Name or service not known
-[18:53:25] [RCON Client /0:0:0:0:0:0:0:1 #5/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[13:42:11] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.19.3
+[13:42:11] [main/INFO]: Loading 105 mods:
+	- chunky 1.4.55
+	- fabric-api 0.141.4+1.21.11
+	   |-- fabric-api-base 1.0.5+4ebb5c083e
+	   |-- fabric-api-lookup-api-v1 1.6.114+20dc27073e
+	   |-- fabric-biome-api-v1 17.1.1+4fc5413f3e
+	   |-- fabric-block-api-v1 1.1.10+4ebb5c083e
+	   |-- fabric-block-view-api-v2 1.0.39+4ebb5c083e
+	   |-- fabric-command-api-v2 2.4.7+6b42a6003e
+	   |-- fabric-content-registries-v0 10.2.14+4fc5413f3e
+	   |-- fabric-convention-tags-v1 2.1.55+7f945d5b3e
+	   |-- fabric-convention-tags-v2 2.17.3+8ef948ba3e
+	   |-- fabric-crash-report-info-v1 0.3.23+4ebb5c083e
+	   |-- fabric-data-attachment-api-v1 1.8.48+eed0806f3e
+	   |-- fabric-data-generation-api-v1 23.4.1+69974c4e3e
+	   |-- fabric-dimensions-v1 4.0.28+4fc5413f3e
+	   |-- fabric-entity-events-v1 3.1.1+1d0ab4303e
+	   |-- fabric-events-interaction-v0 4.1.1+3b89ecf63e
+	   |-- fabric-game-rule-api-v1 2.0.3+4fc5413f3e
+	   |-- fabric-item-api-v1 11.5.20+d0c46b9e3e
+	   |-- fabric-item-group-api-v1 4.2.36+4fc5413f3e
+	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f3e
+	   |-- fabric-lifecycle-events-v1 2.6.15+4ebb5c083e
+	   |-- fabric-loot-api-v2 3.0.73+3f89f5a53e
+	   |-- fabric-loot-api-v3 2.0.20+78c8b4663e
+	   |-- fabric-message-api-v1 6.1.12+4ebb5c083e
+	   |-- fabric-model-loading-api-v1 6.0.15+4fc5413f3e
+	   |-- fabric-networking-api-v1 5.1.6+6b6d71a53e
+	   |-- fabric-object-builder-api-v1 21.1.40+4fc5413f3e
+	   |-- fabric-particles-v1 4.2.12+4fc5413f3e
+	   |-- fabric-recipe-api-v1 8.2.4+4ebb5c083e
+	   |-- fabric-registry-sync-v0 6.2.6+1718722b3e
+	   |-- fabric-renderer-api-v1 8.0.3+f4ffd2e53e
+	   |-- fabric-renderer-indigo 5.0.3+f4ffd2e53e
+	   |-- fabric-rendering-fluids-v1 3.1.43+4ebb5c083e
+	   |-- fabric-rendering-v1 16.2.10+0290ad933e
+	   |-- fabric-resource-conditions-api-v1 5.0.35+4fc5413f3e
+	   |-- fabric-resource-loader-v0 3.3.4+4fc5413f3e
+	   |-- fabric-resource-loader-v1 1.0.10+78c8b4663e
+	   |-- fabric-screen-api-v1 3.1.7+4ebb5c083e
+	   |-- fabric-screen-handler-api-v1 1.3.162+4fc5413f3e
+	   |-- fabric-serialization-api-v1 1.0.5+4ebb5c083e
+	   |-- fabric-sound-api-v1 1.0.51+4fc5413f3e
+	   |-- fabric-tag-api-v1 1.2.20+4fc5413f3e
+	   |-- fabric-transfer-api-v1 6.0.25+4fc5413f3e
+	   \-- fabric-transitive-access-wideners-v1 7.1.0+014c8cec3e
+	- fabricloader 0.19.3
+	   \-- mixinextras 0.5.4
+	- fallingtree 1.21.11.3
+	- floodgate 2.2.6-SNAPSHOT
+	   |-- aopalliance_aopalliance 1.0
+	   |-- cloud 2.0.0-beta.15
+	   |    |-- io_leangen_geantyref_geantyref 1.3.15
+	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.14
+	   |    |-- org_incendo_cloud-core 2.0.0
+	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.15
+	   |    \-- org_incendo_cloud-services 2.0.0
+	   |-- com_google_guava_failureaccess 1.0.1
+	   |-- fabric-permissions-api-v0 0.6.1
+	   |-- jakarta_inject_jakarta_inject-api 2.0.1
+	   |-- javax_inject_javax_inject 1
+	   |-- org_geysermc_cumulus_cumulus 1.1.2
+	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_geysermc_geyser_common_unshaded 2.2.1-SNAPSHOT
+	   |-- org_java-websocket_java-websocket 1.5.2
+	   \-- org_lanternpowered_lmbda 2.0.0
+	- geyser-fabric 2.9.6-SNAPSHOT
+	   |-- cloud 2.0.0-beta.15
+	   |    |-- io_leangen_geantyref_geantyref 1.3.15
+	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.14
+	   |    |-- org_incendo_cloud-core 2.0.0
+	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.15
+	   |    \-- org_incendo_cloud-services 2.0.0
+	   |-- com_google_code_findbugs_jsr305 3.0.2
+	   |-- com_google_errorprone_error_prone_annotations 2.27.0
+	   |-- com_google_j2objc_j2objc-annotations 1.3
+	   |-- com_nukkitx_natives 1.0.3
+	   |-- fabric-permissions-api-v0 0.6.1
+	   |-- io_airlift_aircompressor 0.27
+	   |-- io_netty_netty-codec-haproxy 4.2.7
+	   |-- net_jodah_expiringmap 0.5.10
+	   |-- net_kyori_adventure-api 4.25.0
+	   |-- net_kyori_adventure-key 4.25.0
+	   |-- net_kyori_adventure-nbt 4.25.0
+	   |-- net_kyori_adventure-text-serializer-commons 4.25.0
+	   |-- net_kyori_adventure-text-serializer-gson 4.25.0
+	   |-- net_kyori_adventure-text-serializer-json 4.25.0
+	   |-- net_kyori_adventure-text-serializer-json-legacy-impl 4.25.0
+	   |-- net_kyori_adventure-text-serializer-legacy 4.25.0
+	   |-- net_kyori_adventure-text-serializer-plain 4.25.0
+	   |-- net_kyori_examination-api 1.3.0
+	   |-- net_kyori_examination-string 1.3.0
+	   |-- net_kyori_option 1.1.0
+	   |-- net_lenni0451_commons_gson 1.9.0
+	   |-- net_lenni0451_commons_httpclient 1.9.0
+	   |-- net_raphimc_minecraftauth 5.0.0
+	   |-- org_bitbucket_b_c_jose4j 0.9.6
+	   |-- org_bstats_bstats-base 3.1.0
+	   |-- org_cloudburstmc_math_api 2.0
+	   |-- org_cloudburstmc_math_immutable 2.0
+	   |-- org_cloudburstmc_nbt 3.0.4
+	   |-- org_geysermc_api_base-api 1.0.2
+	   |-- org_geysermc_cumulus_cumulus 1.1.2
+	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_jetbrains_annotations 24.0.0
+	   |-- org_lanternpowered_lmbda 2.0.0
+	   \-- org_yaml_snakeyaml 2.2
+	- java 25
+	- lithostitched 1.7.2
+	- minecraft 1.21.11
+	- polymer-bundled 0.15.2+1.21.11
+	   |-- polymer-autohost 0.15.2+1.21.11
+	   |-- polymer-blocks 0.15.2+1.21.11
+	   |-- polymer-common 0.15.2+1.21.11
+	   |    \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-core 0.15.2+1.21.11
+	   |    |-- polymer-networking 0.15.2+1.21.11
+	   |    |    \-- polymer-common 0.15.2+1.21.11
+	   |    |         \-- packet_tweaker 0.6.0+1.21.10
+	   |    \-- polymer-registry-sync-manipulator 0.15.2+1.21.11
+	   |-- polymer-resource-pack 0.15.2+1.21.11
+	   |    \-- polymer-common 0.15.2+1.21.11
+	   |         \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-resource-pack-extras 0.15.2+1.21.11
+	   |-- polymer-sound-patcher 0.15.2+1.21.11
+	   \-- polymer-virtual-entity 0.15.2+1.21.11
+	        \-- polymer-common 0.15.2+1.21.11
+	             \-- packet_tweaker 0.6.0+1.21.10
+	- terralith 2.6.1
+[13:42:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/data/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:42:11] [main/INFO]: Compatibility level set to JAVA_17
+[13:42:11] [main/INFO]: Compatibility level set to JAVA_21
+[13:42:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[13:42:15] [main/INFO]: Loading extensions...
+[13:42:15] [main/INFO]: Loaded 0 extension(s)
+[13:42:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:42:16] [main/INFO]: Found non-pack entry './world/datapacks/.DS_Store', ignoring
+[13:42:16] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/custom_chat_format, ignoring
+[13:42:16] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/custom_chat_format, ignoring
+[13:42:18] [main/INFO]: Loaded 1470 recipes
+[13:42:18] [main/INFO]: Loaded 1584 advancements
+[13:42:18] [main/INFO]: Applied 0 biome modifications to 0 of 160 new biomes in 1.575 ms
+[13:42:18] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[13:42:18] [Server thread/INFO]: Loading properties
+[13:42:18] [Server thread/INFO]: Default game type: SURVIVAL
+[13:42:18] [Server thread/INFO]: Generating keypair
+[13:42:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:42:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:42:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:42:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:42:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:42:18] [Server thread/INFO]: Preparing level "world"
+[13:42:19] [Server thread/INFO]: Loading 0 persistent chunks...
+[13:42:19] [Server thread/INFO]: Time elapsed: 11 ms
+[13:42:19] [Server thread/INFO]: Done (0.441s)! For help, type "help"
+[13:42:19] [Server thread/INFO]: Starting remote control listener
+[13:42:19] [Server thread/INFO]: Thread RCON Listener started
+[13:42:19] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[13:42:19] [Server thread/INFO]: Took 40ms to boot Floodgate
+[13:42:19] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[13:42:20] [Server thread/INFO]: ******************************************
+[13:42:20] [Server thread/INFO]: 
+[13:42:20] [Server thread/INFO]: Loading Geyser version 2.9.6-b1133 (git-master-7ccf9d3)
+[13:42:20] [Server thread/INFO]: 
+[13:42:20] [Server thread/INFO]: ******************************************
+[13:42:21] [GeyserServer-3-1/INFO]: Started Geyser on UDP port 19132
+[13:42:21] [Server thread/INFO]: Done (1.685s)! Run /geyser help for help!
+[13:42:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[13:42:21] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[13:42:33] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[13:43:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:35:27] [RCON Client /0:0:0:0:0:0:0:1 #3/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[17:35:40] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[17:35:40] [RCON Client /0:0:0:0:0:0:0:1 #4/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[17:35:40] [Server thread/INFO]: Shutting down Geyser.
+[17:35:40] [Server thread/INFO]: Geyser shutdown successfully.
+[17:35:40] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[17:35:40] [RCON Client /0:0:0:0:0:0:0:1 #5/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[17:35:40] [WebSocketConnectReadThread-194/INFO]: The skin uploader has been closed
